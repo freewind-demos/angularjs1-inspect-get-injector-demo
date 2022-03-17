@@ -5,5 +5,5 @@ How to inspect DOM to get angular injector.
 
 ```
 npm install
-npm run demo
+npm start
 ```
